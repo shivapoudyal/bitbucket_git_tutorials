@@ -1,0 +1,23 @@
+****************************************** Create Branch & Push Branch to Repository ************************************
+
+Create Branch on local = git branch branch_name
+Create Branch on account = git checkout -b shivapoudyal2
+Rename the current branch = git branch -m new_branch
+Please Tell Me Who Are You = 
+git config user.name account_name
+git config user.email "someone@someplace.com"
+
+
+GIT Remote Add (without cloning)
+
+        a) git init
+    b) git remote add origin https://github.com/shivapoudyal/repo_name.git
+
+Note: Very first take a clone of a repository and create a branch under that repository folder and push the branch into that repository.
+
+
+fatal: remote origin already exists.
+
+    git remote set-url origin https://github.com/shivapoudyal/java-project.git
+
+    (Note:- this error occurs when you clone from other account and want to push another account)
