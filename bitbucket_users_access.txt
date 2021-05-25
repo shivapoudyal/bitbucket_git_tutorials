@@ -12,15 +12,18 @@
 
 1) Create a Repository and click on it
     
-    i)      GENERAL -> User and group access (for adding users or groups)
-    ii)     type any username or email -> for adding user
+    i)      Repository Setting -> GENERAL -> User and group access (for adding users or groups)
+    ii)     add users to repository -> type any username or email
     iii)    set permission -> read, write, admin
     iv)     it will send an invitation mail to user, when it accepted user will be listed for a particular repo
 
 
 ------------------------------------------------- BRANCH PERMISSIONS ---------------------------------------
+1) Add a branch -> root repo dir -> add branch
 
-1) Create branches and set permissions that who can read write etc on this branch.
+2) Set branc permissions that who can read write etc into a particular branch.
 
-    i)      WORKFLOW -> add a branch permission
+    i)      Repository Setting -> WORKFLOW -> add a branch permission
     ii)     enter branch name, set write access, pull request access
+
+Note :- branch can be created by any user into their account, and they can work on their added branches into main account (admin account)  
