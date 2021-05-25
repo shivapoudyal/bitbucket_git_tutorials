@@ -26,4 +26,4 @@
     i)      Repository Setting -> WORKFLOW -> add a branch permission
     ii)     enter branch name, set write access, pull request access
 
-Note :- branch can be created by any user into their account, and they can work on their added branches into main account (admin account)  
+Note :- branch can be created by any user into their account, and they can work on their added branches into main account (admin account) individually
