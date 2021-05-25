@@ -1,6 +1,9 @@
 -------------------------------------------------- Bitbucket Users --------------------------------------
 
-1) bewafamiller@gmail.com (admin user) 
-    username - shivapodi
-    pass     - (vshiva****)
+1)  email       - bewafamiller@gmail.com (admin user) 
+    username    - shivapodi
+    pass        - (vshiva****)
     
+2)  email       - teslagemm@gmail.com (developer) 
+    username    - shivatesla
+    pass        - (vshiva****)
