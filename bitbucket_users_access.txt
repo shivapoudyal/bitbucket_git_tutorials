@@ -8,6 +8,10 @@
     username    - shivatesla
     pass        - (vshiva****)
 
+3)  email       - shivapoudyal0411@gmail.com (developer) 
+    username    - Shiva Poudyal
+    pass        - (vshiva****)  
+
 ------------------------------------------------ ADD USERS TO REPO AND PERMISSIONS ------------------------  
 
 1) Create a Repository and click on it
@@ -15,7 +19,7 @@
     i)      Repository Setting -> GENERAL -> User and group access (for adding users or groups)
     ii)     add users to repository -> type any username or email
     iii)    set permission -> read, write, admin
-    iv)     it will send an invitation mail to user, when it accepted user will be listed for a particular repo
+    iv)     it will send an invitation mail to user added, when it accepted, user will be listed for that particular repo
 
 
 ------------------------------------------------- BRANCH PERMISSIONS ---------------------------------------
