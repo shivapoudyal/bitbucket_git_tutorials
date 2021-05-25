@@ -1,4 +1,4 @@
--------------------------------------------------- Bitbucket Users --------------------------------------
+-------------------------------------------------- BITBUCKET USERS --------------------------------------
 
 1)  email       - bewafamiller@gmail.com (admin user) 
     username    - shivapodi
@@ -7,3 +7,20 @@
 2)  email       - teslagemm@gmail.com (developer) 
     username    - shivatesla
     pass        - (vshiva****)
+
+------------------------------------------------ ADD USERS TO REPO AND PERMISSIONS ------------------------  
+
+1) Create a Repository and click on it
+    
+    i)      GENERAL -> User and group access (for adding users or groups)
+    ii)     type any username or email -> for adding user
+    iii)    set permission -> read, write, admin
+    iv)     it will send an invitation mail to user, when it accepted user will be listed for a particular repo
+
+
+------------------------------------------------- BRANCH PERMISSIONS ---------------------------------------
+
+1) Create branches and set permissions that who can read write etc on this branch.
+
+    i)      WORKFLOW -> add a branch permission
+    ii)     enter branch name, set write access, pull request access
