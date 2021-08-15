@@ -25,5 +25,5 @@ Note: Very first take a clone of a repository and create a branch under that rep
 7)   Set git credential (so that we no need to put again and again)
         git config --global credential.helper cache  (enter credential for last time and it will not ask again) 
         
-8)   Undo git credentials which set on cache
+8)   Undo or change git credentials which set in cache
         git config --global --unset credential.helper
