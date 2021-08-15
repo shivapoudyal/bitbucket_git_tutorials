@@ -23,7 +23,7 @@ Note: Very first take a clone of a repository and create a branch under that rep
     (Note:- this error occurs when you clone from other account and want to push another account)
 
 7)   Set git credential (so that we no need to put again and again)
-        config --global credential.helper cache  (enter credential for last time and it will not ask again) 
+        git config --global credential.helper cache  (enter credential for last time and it will not ask again) 
         
 8)   Undo git credentials which set on cache
         git config --global --unset credential.helper
